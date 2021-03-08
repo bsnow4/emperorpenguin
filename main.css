@@ -22,13 +22,10 @@
   margin-bottom: 15px;
 }
 #snow {
-
-
   float: right;
   margin: 0 0 0 15px;
   margin-right: 15px;
   margin-bottom: 0px;
-  
 }
 #fact {
   float: right;
@@ -68,9 +65,9 @@ footer {
 .indent {
   text-indent: 50px;
 }
-.alignleft{
-margin: 0;
+.alignleft {
+  margin: 0;
 }
-.italic{
-    font-style: italic;
+.italic {
+  font-style: italic;
 }
